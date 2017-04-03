@@ -1,4 +1,13 @@
-.encabezado{
+.columna-encabezado{
+  border: 1px solid black;
+  min-height: 10rem !important;
+}
+
+.columna-subnavbar{
+  border: 1px solid black;
+  min-height: 5rem !important;
+}
+/*.encabezado{
   min-height: 10em !important;
 
 }
@@ -8,4 +17,4 @@
 
 .btn-encabezado{
   margin: 0.5rem;
-}
+}*/
