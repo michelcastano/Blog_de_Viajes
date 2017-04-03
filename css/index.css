@@ -1,7 +1,11 @@
 .encabezado{
-  min-height: 20em;
+  min-height: 10em !important;
 
 }
 .logo{
   max-height: 8rem;
+}
+
+.btn-encabezado{
+  margin: 0.5rem;
 }
