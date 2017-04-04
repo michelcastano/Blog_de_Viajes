@@ -33,7 +33,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0084e3', end
 
 .columna-contenido{
     /*border: 1px solid black;*/
-    min-height: 40rem !important;
+    min-height: 30rem !important;
 }
 
 .columna-footer{
@@ -47,25 +47,25 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0084e3', end
 }
 
 .col1foto{
-  border: 1px solid black;
-  height: 19.4rem;
+  /*border: 1px solid black;
+  height: 19.4rem;*/
   padding: 0;
   margin: 0;
 }
 
 .col2foto{
-  border: 1px solid black;
-  height: 39.8rem;
+  /*border: 1px solid black;
+  height: 39.8rem;*/
 }
 
 .col3-1foto{
-  border: 1px solid black;
-  height: 24rem;
+  /*border: 1px solid black;
+  height: 24rem;*/
 }
 
 .col3-2foto{
-  border: 1px solid black;
-  height: 14rem;
+  /*border: 1px solid black;
+  height: 14rem;*/
 }
 
 .colentradas{
