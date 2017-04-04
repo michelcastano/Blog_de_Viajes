@@ -8,6 +8,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position:bottom;
+    padding: 0;
 }
 
 .columna-encabezado{
@@ -33,4 +34,36 @@ body{
 .columna-social{
   border: 1px solid black;
   height: 4rem;
+}
+
+.col1foto{
+  border: 1px solid black;
+  height: 19.4rem;
+  padding: 0;
+  margin: 0;
+}
+
+.col2foto{
+  border: 1px solid black;
+  height: 39.8rem;
+}
+
+.col3-1foto{
+  border: 1px solid black;
+  height: 24rem;
+}
+
+.col3-2foto{
+  border: 1px solid black;
+  height: 14rem;
+}
+
+.colentradas{
+  border: 1px solid black;
+  height: 20rem;
+}
+
+.colform{
+  border: 1px solid black;
+  height: 10rem;
 }
