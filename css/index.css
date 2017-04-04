@@ -1,3 +1,15 @@
+body{
+  background-color: #2196f3;
+}
+
+
+.container {
+    background-image: url('../media/blue-landscape.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:bottom;
+}
+
 .columna-encabezado{
   border: 1px solid black;
   min-height: 10rem !important;
@@ -7,14 +19,18 @@
   border: 1px solid black;
   min-height: 5rem !important;
 }
-/*.encabezado{
-  min-height: 10em !important;
 
-}
-.logo{
-  max-height: 8rem;
+.columna-contenido{
+    border: 1px solid black;
+    min-height: 40rem !important;
 }
 
-.btn-encabezado{
-  margin: 0.5rem;
-}*/
+.columna-footer{
+  border: 1px solid black;
+  min-height: 30rem !important;
+}
+
+.columna-social{
+  border: 1px solid black;
+  height: 4rem;
+}
